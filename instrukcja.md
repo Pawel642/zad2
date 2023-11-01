@@ -51,4 +51,16 @@ umieszczanych w plikach tekstowych. Z pośród najbardziej popularnych można ws
 2. Tex (Latex) – poznany na zajęciach język do „profesjonalnego” składania tekstów,
 3. XML (Extensible Markup Language) - uniwersalnym języku znaczników przeznaczonym
 do reprezentowania różnych danych w ustrukturalizowany sposób.
-Przykład kodu html i jego interpretacja w przeglądarce: 
+Przykład kodu html i jego interpretacja w przeglądarce:
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Przykład</title>
+</head>
+<body>
+<p> Jakiś paragraf tekstu</p>
+</body>
+</html>
+
