@@ -65,4 +65,7 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 </body>
 </html>
 
+[1.pdf](https://github.com/Pawel642/zad2/files/13237609/1.pdf)
+
+
 
